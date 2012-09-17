@@ -765,6 +765,6 @@ var helpers = {
 
 dust.helpers = helpers;
 
-})(getGlobal());
+})(dust);
 
 module.exports = dust;
